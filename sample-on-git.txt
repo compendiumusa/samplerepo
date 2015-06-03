@@ -1,0 +1,3 @@
+Enter file contents here
+
+This is a sample created on Git, we'll see if it comes down to local repo
